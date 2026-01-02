@@ -1,0 +1,1 @@
+const service_npi0 = <T>(args: T): T => { return args; };
